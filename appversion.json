@@ -3,7 +3,7 @@
     "statusCode":"200",
     "massage":"Successfull",
     "appSettingsdata":{
-        "appVersionCode":"3",
+        "appVersionCode":"1",
         "isActiveMode":"1"
     }
 }
