@@ -5,7 +5,8 @@
     "appSettingsdata":{
         "appVersionCode":"3",
         "appUpdateType":"1",
-         "appUpdateTypeDetails":"1PlayStore2github",
+        "localupdateUrl":"https://likehmpworldpro.github.io/likeHmpPro/",
+        "appUpdateTypeDetails":"1PlayStore2github",
         "isActiveMode":"1"
         
     }
