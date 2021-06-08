@@ -3,7 +3,7 @@
     "statusCode":"200",
     "massage":"Successfull",
     "appSettingsdata":{
-        "appVersionCode":"6",
+        "appVersionCode":"8",
         "appUpdateType":"1",
         "localUpdateUrl":"https://likehmpworldpro.github.io/likeHmpPro/",
         "appUpdateTypeDetails":"1PlayStore2github",
