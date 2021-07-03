@@ -1,0 +1,10 @@
+{
+    "status":"success",
+    "statusCode":"200",
+    "massage":"Successfull",
+    "appSettingsdata":{
+        "fb1yt2":"1",
+        "fbLink":"https://www.facebook.com/bijoybangladesh.news",
+        "ytLink":"https://www.youtube.com/channel/UCuJsZB0NabJKGi2HHpCzIOw"
+    }
+}
